@@ -3,3 +3,6 @@
 
 ## Configuración Git:
 > git config core.autocrlf false
+
+## Assets
+**Personaje:** https://free-game-assets.itch.io/free-2d-knight-sprite-sheets
